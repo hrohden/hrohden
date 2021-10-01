@@ -1,6 +1,6 @@
 ## Hi there, I'm Henrique Broering Rohden
 
-### _Full-stack Java developer and open source contribuitor_
+### _Full-stack Java developer and open source contributor_
 
 I love working with all Java-related technologies, such as Spring and JPA (Hibernate), as well as frontend libraries and frameworks, included (but not limited to) Angular, React and even vanilla Javascript.
 
