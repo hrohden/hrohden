@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Henrique Broering Rohden
+
+I am a full-stack Java developer and open source contribuitor. I love working with all Java-related technologies, such as Spring and JPA (Hibernate), as well as frontend libraries and frameworks, included (but not limited to) Angular, React and even vanilla Javascript.
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrohden&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **hrohden/hrohden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
