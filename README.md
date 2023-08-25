@@ -2,9 +2,9 @@
 
 ### _Full-stack Java developer and open source contributor_
 
-I love working with all Java-related technologies, such as Spring and JPA (Hibernate), as well as frontend libraries and frameworks, included (but not limited to) Angular, React and even vanilla Javascript.
+I love working with all Java-related technologies, such as Spring and JPA (Hibernate), as well as frontend libraries and frameworks, including (but not limited to) React, Angular, and even vanilla Javascript.
 
-<a href="https://www.linkedin.com/in/henrique-rohden/">
+<a href="https://www.linkedin.com/in/henriquerohden/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
